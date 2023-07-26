@@ -1,0 +1,16 @@
+2023-07-24 20:46:27,572 :DEBUG :mainfolder.utilities.BaseClass: Browser launched
+2023-07-24 20:46:28,481 :DEBUG :mainfolder.utilities.BaseClass: Website Launched
+2023-07-24 20:46:28,481 :DEBUG :mainfolder.utilities.BaseClass: Phone Number Entered
+2023-07-24 20:47:47,798 :DEBUG :mainfolder.utilities.BaseClass: OTP Entered
+2023-07-24 20:47:48,359 :DEBUG :mainfolder.utilities.BaseClass: From city selected
+2023-07-24 20:47:49,288 :DEBUG :mainfolder.utilities.BaseClass: To city selected
+2023-07-24 20:47:52,734 :DEBUG :mainfolder.utilities.BaseClass: Date selected
+2023-07-24 20:47:52,998 :DEBUG :mainfolder.utilities.BaseClass: Passenger selected
+2023-07-24 20:48:09,632 :DEBUG :mainfolder.utilities.BaseClass: Successful booking
+2023-07-26 20:43:23,031 :DEBUG :mainfolder.utilities.BaseClass: Browser launched
+2023-07-26 20:43:24,736 :DEBUG :mainfolder.utilities.BaseClass: Website Launched
+2023-07-26 20:43:44,184 :DEBUG :mainfolder.utilities.BaseClass: From city selected
+2023-07-26 20:43:44,994 :DEBUG :mainfolder.utilities.BaseClass: To city selected
+2023-07-26 20:43:48,356 :DEBUG :mainfolder.utilities.BaseClass: Date selected
+2023-07-26 20:43:48,591 :DEBUG :mainfolder.utilities.BaseClass: Passenger selected
+2023-07-26 20:43:54,793 :DEBUG :mainfolder.utilities.BaseClass: Successful booking

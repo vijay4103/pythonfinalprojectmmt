@@ -1,0 +1,5 @@
+2023-07-13 20:43:30,098 :DEBUG :testcases.test_e2e: Browser Launched
+2023-07-13 20:47:41,732 :DEBUG :testcases.test_e2e: Browser Launched
+2023-07-13 20:48:37,792 :DEBUG :testcases.test_e2e: Browser Launched
+2023-07-17 20:39:04,656 :DEBUG :mainfolder.utilities.BaseClass: Browser Launched
+2023-07-18 20:25:38,887 :DEBUG :mainfolder.utilities.BaseClass: Browser Launched
